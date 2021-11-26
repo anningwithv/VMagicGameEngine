@@ -1,0 +1,3 @@
+[submodule "GameEngineSourceCode/VMagicGameEngine/VMagicGameEngine/vendor/spdlog"]
+	path = GameEngineSourceCode/VMagicGameEngine/VMagicGameEngine/vendor/spdlog
+	url = https://github.com/gabime/spdlog
