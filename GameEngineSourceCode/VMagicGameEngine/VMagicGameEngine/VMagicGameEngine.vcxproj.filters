@@ -18,12 +18,21 @@
     <ClCompile Include="VMagicGameEngine.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="src\Test.cpp">
+    <ClCompile Include="src\Engine\Application.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\Test.h">
+    <ClInclude Include="src\VMagicGameEngine.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Engine\EntryPoint.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Engine\Application.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Engine\Core.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
