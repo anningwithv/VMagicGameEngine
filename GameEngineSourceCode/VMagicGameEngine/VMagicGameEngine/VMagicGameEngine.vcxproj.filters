@@ -21,6 +21,9 @@
     <ClCompile Include="src\Engine\Application.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="src\Engine\Log.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\VMagicGameEngine.h">
@@ -33,6 +36,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="src\Engine\Core.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Engine\Log.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
